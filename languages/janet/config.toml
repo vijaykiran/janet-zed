@@ -1,0 +1,5 @@
+name = "Janet"
+grammar = "janet"
+path_suffixes = ["janet"]
+line_comments = ["# "]
+autoclose_before = "])}"

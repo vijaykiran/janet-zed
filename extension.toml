@@ -1,0 +1,10 @@
+id = "janet"
+name = "Janet"
+version = "0.0.1"
+schema_version = 1
+authors = ["Vijay Kiran <mail@vijaykiran.com>"]
+description = "Zed extension for Janet programming language."
+
+[grammars.janet]
+repository = "https://github.com/GrayJack/tree-sitter-janet.git"
+commit = "1d002c23d4e952ce24a2e472d0f81ab0471ceb1b"
