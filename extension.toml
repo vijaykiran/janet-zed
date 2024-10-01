@@ -4,6 +4,7 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Vijay Kiran <mail@vijaykiran.com>"]
 description = "Zed extension for Janet programming language."
+repository = "https://github.com/vijaykiran/janet-zed"
 
 [grammars.janet]
 repository = "https://github.com/GrayJack/tree-sitter-janet.git"
